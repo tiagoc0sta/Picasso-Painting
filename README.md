@@ -5,7 +5,7 @@ Technologies used:
 - HTML
 - CSS
 - JS
-- Font awesome
+- Font awesome -
 
 ## Acknowledgements
 
